@@ -1,0 +1,6 @@
+c:\users\rezafta\documents\visual studio 2015\Projects\QUEEN\QUEEN\bin\Debug\QUEEN.exe.config
+c:\users\rezafta\documents\visual studio 2015\Projects\QUEEN\QUEEN\bin\Debug\QUEEN.exe
+c:\users\rezafta\documents\visual studio 2015\Projects\QUEEN\QUEEN\bin\Debug\QUEEN.pdb
+c:\users\rezafta\documents\visual studio 2015\Projects\QUEEN\QUEEN\obj\Debug\QUEEN.csprojResolveAssemblyReference.cache
+c:\users\rezafta\documents\visual studio 2015\Projects\QUEEN\QUEEN\obj\Debug\QUEEN.exe
+c:\users\rezafta\documents\visual studio 2015\Projects\QUEEN\QUEEN\obj\Debug\QUEEN.pdb
